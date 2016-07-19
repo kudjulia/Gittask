@@ -1,0 +1,11 @@
+commit 2b5fbb13ce20fcf3a7f8fb29d124edaf65468f31
+Author: ykudrynska <ykudrynska@cogniance.com>
+Date:   Wed Jul 20 00:16:48 2016 +0300
+
+    commit step 6 nice to have
+
+commit baf6f603aaf6a57ba1ad10da4e6e8db5b841090f
+Author: ykudrynska <ykudrynska@cogniance.com>
+Date:   Wed Jul 20 00:09:27 2016 +0300
+
+    commit step 3 nice to have
